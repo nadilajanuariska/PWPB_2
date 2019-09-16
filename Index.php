@@ -8,7 +8,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
 
-    <title>PWPB_1</title>
+    <title>PWPB</title>
   </head>
   <body>
     <style>
@@ -25,7 +25,7 @@
                       <div class="navbar-nav">
                         <a class="nav-item nav-link active" href="Firstproject.php">First Project<span class="sr-only">(current)</span></a>
                         <a class="nav-item nav-link active" href="Secondproject.php">Second Project</a>
-                        <a class="nav-item nav-link" href="#">Third Project</a>
+                        <a class="nav-item nav-link" href="Thirdproject.php">Third Project</a>
                         <a class="nav-item nav-link" href="#">Fourth Project</a>
                       </div>
                     </div>
